@@ -15,6 +15,12 @@ Although extensive notes available (pelase take look at the 'Sources' section) n
 
 ## Formula rendering
 
-`!<img src="https://render.githubusercontent.com/render/math?math=latex formula">`
+```
+<p align="center">
+    <img height="25px" src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+</p>
+```
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+<p align="center">
+    <img height="25px" src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+</p>
